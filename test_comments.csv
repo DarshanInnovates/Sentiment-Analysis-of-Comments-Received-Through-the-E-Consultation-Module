@@ -1,0 +1,11 @@
+comment_id,comment,domain,sentiment_label
+1,"Quick and empathetic virtual consultation.",general,positive
+2,"App crashed during form submission.",technical,negative
+3,"Nutrition advice was helpful and detailed.",nutrition,positive
+4,"Privacy policy is vague, data concerns.",privacy,negative
+5,"Platform works well for rural users.",accessibility,positive
+6,"Response was adequate but not detailed.",general,neutral
+7,"Fitness tracker integration is seamless.",wearables,positive
+8,"Wait times for specialists are too long.",availability,negative
+9,"Mental health support was satisfactory.",mental_health,neutral
+10,"UI is functional but could be improved.",usability,neutral
