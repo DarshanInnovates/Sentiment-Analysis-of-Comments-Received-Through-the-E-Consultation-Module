@@ -1,0 +1,401 @@
+comment_id,comment,domain,sentiment_label
+1,"The doctor responded quickly and the advice was spot on. Helped resolve my issue without an appointment.",general,positive
+2,"Waited two days for a reply, and it was generic. Not impressed with the e-consult service.",general,negative
+3,"Excellent guidance on my medication adjustment. Saved me a trip to the clinic.",medication,positive
+4,"System glitches kept logging me out. Couldn't complete the consultation form.",technical,negative
+5,"Very empathetic response from the specialist. Made me feel heard and cared for.",mental_health,positive
+6,"No follow-up questions addressed. Felt like a rushed answer.",general,negative
+7,"Integrated well with my EHR. Seamless experience overall.",integration,positive
+8,"Advice contradicted my primary care doc. Confusing now.",general,negative
+9,"Timely and detailed explanation of test results. Highly recommend.",diagnostics,positive
+10,"Poor privacy features. Worried about data security in this module.",privacy,negative
+11,"Transformed my chronic pain management plan effectively.",chronic_care,positive
+12,"Response was too brief; needed more depth on side effects.",medication,negative
+13,"User-friendly interface for uploading scans and notes.",usability,positive
+14,"Specialist unavailable for weeks—defeats the purpose of e-consult.",availability,negative
+15,"Personalized diet recommendations based on my query. Great job!",nutrition,positive
+16,"Billing confusion after the consult. Unexpected charges appeared.",billing,negative
+17,"Empowering for rural patients like me—no travel needed.",accessibility,positive
+18,"Language barrier; responses in medical jargon I didn't understand.",communication,negative
+19,"Accelerated my recovery with precise exercise suggestions.",rehab,positive
+20,"App crashes frequently during submission. Frustrating!",technical,negative
+21,"Holistic approach considering my full history. Impressive.",holistic_care,positive
+22,"Ignored my allergy history in the recommendation. Dangerous oversight.",safety,negative
+23,"Quick resolution to my skin condition query. Photos helped a lot.",dermatology,positive
+24,"Overloaded server—couldn't access during peak hours.",technical,negative
+25,"Built trust through clear, step-by-step instructions.",trust,positive
+26,"No option for video clarification if needed. Limited.",features,negative
+27,"Revolutionized my diabetes monitoring routine.",diabetes,positive
+28,"Response delayed due to verification issues.",verification,negative
+29,"Inclusive for non-English speakers with translation tools.",inclusivity,positive
+30,"Generic template responses feel impersonal.",personalization,negative
+31,"Outstanding support for post-op care queries.",post_op,positive
+32,"Data entry errors not correctable mid-process.",usability,negative
+33,"Empathetic handling of my anxiety concerns.",mental_health,positive
+34,"High cost for premium specialist access.",cost,negative
+35,"Streamlined referral process to in-person if required.",referrals,positive
+36,"Outdated information on vaccine side effects.",accuracy,negative
+37,"Convenient for busy parents managing kids' health.",pediatrics,positive
+38,"Notification system unreliable—missed updates.",notifications,negative
+39,"In-depth analysis of my sleep patterns data.",sleep,positive
+40,"Privacy policy unclear on third-party sharing.",privacy,negative
+41,"Tailored fitness plan post-injury. Spot on!",fitness,positive
+42,"Slow loading times make it tedious to use.",performance,negative
+43,"Collaborative input from multiple specialists.",collaboration,positive
+44,"No mobile optimization—hard on phone.",mobile,negative
+45,"Life-changing advice on managing hypertension.",hypertension,positive
+46,"Form fields too restrictive for detailed symptoms.",usability,negative
+47,"Responsive and adaptive to follow-up questions.",engagement,positive
+48,"EHR integration failed; had to re-enter everything.",integration,negative
+49,"Comprehensive allergy management strategy provided.",allergies,positive
+50,"Weekend support lacking—urgent queries ignored.",availability,negative
+51,"Visual aids in responses clarified complex topics.",education,positive
+52,"Subscription model feels exploitative for basic access.",billing,negative
+53,"Empowered self-management of my asthma.",asthma,positive
+54,"AI suggestions sometimes inaccurate or irrelevant.",ai_assist,negative
+55,"Seamless for elderly users with simple UI.",elderly,positive
+56,"Long wait queue during flu season overload.",scalability,negative
+57,"Precise dosing instructions avoided overdose risk.",safety,positive
+58,"Feedback loop missing—no rating after consult.",feedback,negative
+59,"Holistic mental wellness plan was transformative.",mental_health,positive
+60,"Browser compatibility issues with Chrome updates.",technical,negative
+61,"Rapid triage for emergency symptoms—saved time.",triage,positive
+62,"Overly formal tone; lacks warmth.",communication,negative
+63,"Integrated with wearables for real-time data.",wearables,positive
+64,"No archive search for past consults.",search,negative
+65,"Expert insights on rare disease symptoms.",rare_disease,positive
+66,"Captcha verification too frequent and annoying.",usability,negative
+67,"Customizable alert thresholds for monitoring.",customization,positive
+68,"Misinterpreted my query on cultural dietary needs.",cultural,negative
+69,"Efficient for travel medicine advice before trips.",travel,positive
+70,"Server downtime without notice disrupted session.",reliability,negative
+71,"Patient-centered focus on quality of life.",qol,positive
+72,"Limited file upload size for lab reports.",features,negative
+73,"Proactive suggestions for preventive screenings.",prevention,positive
+74,"Responses biased toward pharmaceutical options.",bias,negative
+75,"Accessible for visually impaired with screen reader support.",accessibility,positive
+76,"Queue position not updated in real-time.",transparency,negative
+77,"Detailed breakdown of insurance coverage queries.",insurance,positive
+78,"No multilingual support beyond English.",language,negative
+79,"Innovative use of VR for therapy guidance.",therapy,positive
+80,"Ad-heavy interface distracts from content.",ads,negative
+81,"Collaborative care plan with my entire team.",teamwork,positive
+82,"Password reset process overly complicated.",security,negative
+83,"Timely updates on evolving COVID protocols.",pandemic,positive
+84,"Irrelevant sponsored content in responses.",relevance,negative
+85,"Empowering for chronic illness self-advocacy.",advocacy,positive
+86,"Data export options limited to PDF only.",export,negative
+87,"Personalized risk assessments were eye-opening.",risk_assess,positive
+88,"Frequent mandatory updates interrupt workflows.",updates,negative
+89,"Inclusive gender-neutral language in advice.",inclusivity,positive
+90,"Over-reliance on self-reported data without validation.",accuracy,negative
+91,"Seamless integration with telehealth escalation.",telehealth,positive
+92,"No dark mode for night-time reading.",ui,negative
+93,"Transformative insights into gut health microbiome.",gut_health,positive
+94,"Verification emails go to spam folder often.",email,negative
+95,"Community forum tie-in for peer support.",community,positive
+96,"Algorithmic matching to specialists sometimes off.",matching,negative
+97,"Clear consent forms for data usage.",consent,positive
+98,"Session timeouts too short for thoughtful replies.",timeout,negative
+99,"Holistic nutrition counseling exceeded expectations.",nutrition,positive
+100,"Legacy browser support lacking for older devices.",compatibility,negative
+101,"Rapid prototyping of treatment plans via e-consult.",planning,positive
+102,"No undo button for submitted queries.",usability,negative
+103,"Empathetic virtual support for grief counseling.",grief,positive
+104,"High data usage on mobile plans.",mobile_data,negative
+105,"Predictive analytics for flare-up prevention.",prediction,positive
+106,"Generic disclaimers undermine confidence.",trust,negative
+107,"User profiles allow easy history tracking.",profiles,positive
+108,"Peak hour throttling slows everything down.",performance,negative
+109,"Culturally sensitive advice for immigrant health.",cultural,positive
+110,"No integration with fitness apps yet.",integration,negative
+111,"Detailed pharmacogenomics explanations.",genomics,positive
+112,"Pop-up ads during consult reading.",ads,negative
+113,"Accessible for low-literacy users with simple language.",literacy,positive
+114,"Response time guarantees not met.",sla,negative
+115,"Innovative AR overlays for wound care.",ar,positive
+116,"Confusing navigation menu structure.",ui,negative
+117,"Proven effective in reducing ER visits.",outcomes,positive
+118,"Bias detection in AI responses lacking.",bias,negative
+119,"Seamless for multi-specialty consults.",multi_spec,positive
+120,"File sharing encryption not end-to-end.",security,negative
+121,"Motivational coaching elements in responses.",motivation,positive
+122,"Limited to text-only; no voice input.",input,negative
+123,"Breakthrough in personalized oncology advice.",oncology,positive
+124,"Subscription renewal reminders aggressive.",billing,negative
+125,"Inclusive for LGBTQ+ health queries.",inclusivity,positive
+126,"Search history not private/incognito mode.",privacy,negative
+127,"Real-time collaboration with live editing.",collaboration,positive
+128,"Overly optimistic success rate claims.",accuracy,negative
+129,"Empowering remote monitoring for heart patients.",cardio,positive
+130,"UI cluttered with unnecessary icons.",ui,negative
+131,"Comprehensive elder abuse detection guidance.",elder_abuse,positive
+132,"No offline mode for rural areas.",offline,negative
+133,"Tailored yoga routines for back pain relief.",yoga,positive
+134,"Data analytics dashboard for trends insightful.",analytics,positive
+135,"Frequent false positives in symptom checker.",checker,negative
+136,"Holistic approach to fertility challenges.",fertility,positive
+137,"Browser fingerprinting for tracking creepy.",privacy,negative
+138,"Quick wins in managing ADHD symptoms.",adhd,positive
+139,"No bulk upload for multiple queries.",features,negative
+140,"Transformative feedback on vocal health.",vocal,positive
+141,"Server location causes high latency abroad.",latency,negative
+142,"Patient testimonials integrated helpfully.",testimonials,positive
+143,"Mandatory video verification invasive.",verification,negative
+144,"Seamless for veterinary consult parallels.",vet,positive
+145,"Algorithm updates without changelog.",transparency,negative
+146,"Empathetic AI chatbot for initial triage.",chatbot,positive
+147,"Cost transparency lacking in quotes.",cost,negative
+148,"Innovative gamification for adherence tracking.",gamify,positive
+149,"No API for developer integrations.",api,negative
+150,"Detailed migraine trigger analysis.",migraine,positive
+151,"Pop-up surveys interrupt flow.",surveys,negative
+152,"Inclusive braille PDF exports.",accessibility,positive
+153,"Overhyped features not delivering.",hype,negative
+154,"Rapid deployment of crisis intervention plans.",crisis,positive
+155,"Legacy code bugs in form validation.",bugs,negative
+156,"Personalized learning modules on conditions.",education,positive
+157,"No family sharing options for pediatric care.",family,negative
+158,"Breakthrough in neurodiversity support.",neuro,positive
+159,"High bandwidth requirements exclude some.",bandwidth,negative
+160,"Collaborative research query handling.",research,positive
+161,"Generic error messages unhelpful.",errors,negative
+162,"Empowering women's health tracking.",womens_health,positive
+163,"No version control for response edits.",versioning,negative
+164,"Seamless OAuth for social logins.",login,positive
+165,"Biased toward urban healthcare models.",bias,negative
+166,"Transformative in addiction recovery guidance.",addiction,positive
+167,"Clunky drag-and-drop for attachments.",usability,negative
+168,"Real-time sentiment feedback loop.",sentiment,positive
+169,"Outdated UI design feels archaic.",design,negative
+170,"Holistic pet health analogies useful.",pet_health,positive
+171,"No webhook notifications for updates.",webhooks,negative
+172,"Detailed eczema management protocol.",eczema,positive
+173,"Serverless architecture ensures scalability.",scalability,positive
+174,"Intrusive cookie consent pop-ups.",cookies,negative
+175,"Innovative scent therapy recommendations.",scent,positive
+176,"Limited character count for queries.",limits,negative
+177,"Patient portal sync flawless.",portal,positive
+178,"No dark web monitoring for breaches.",security,negative
+179,"Empathetic handling of loss and bereavement.",bereavement,positive
+180,"Frequent A/B testing disrupts UX.",testing,negative
+181,"Tailored sound therapy for tinnitus.",tinnitus,positive
+182,"Blockchain for immutable records promising.",blockchain,positive
+183,"Overloaded with jargon in explanations.",jargon,negative
+184,"Seamless for expatriate health queries.",expat,positive
+185,"No quantum-safe encryption yet.",encryption,negative
+186,"Breakthrough in quantum biology insights.",quantum,positive
+187,"UI/UX audit reveals accessibility gaps.",audit,negative
+188,"Holistic quantum healing suggestions.",healing,positive
+189,"Legacy support for IE11 unnecessary.",legacy,negative
+190,"Rapid prototyping of wellness apps.",wellness,positive
+191,"No microservices for modularity.",architecture,negative
+192,"Empowering citizen science health data.",citizen_sci,positive
+193,"Cluttered dashboard with metrics overload.",dashboard,negative
+194,"Detailed chronobiology advice for shift workers.",chrono,positive
+195,"Serverless cold starts delay responses.",cold_start,negative
+196,"Inclusive for neurotypical and atypical.",neuro_typ,positive
+197,"No edge computing for low-latency.",edge,negative
+198,"Transformative in exosome therapy guidance.",exosome,positive
+199,"Frequent deprecations break integrations.",deprecation,negative
+200,"Seamless Web3 wallet for health NFTs.",web3,positive
+201,"Overly complex OAuth flows.",oauth,negative
+202,"Holistic metaverse therapy sessions.",metaverse,positive
+203,"No zero-trust architecture implemented.",trust_arch,negative
+204,"Innovative DAO for patient governance.",dao,positive
+205,"Clunky VR headset compatibility.",vr,negative
+206,"Detailed singularity health predictions.",singularity,positive
+207,"Legacy monolithic design hinders scaling.",monolith,negative
+208,"Empowering AI co-pilots for self-diagnosis.",ai_pilot,positive
+209,"No federated learning for privacy.",fed_learn,negative
+210,"Breakthrough in synthetic biology consults.",synth_bio,positive
+211,"Server overload during viral trends.",overload,negative
+212,"Tailored quantum entanglement metaphors for bonds.",quantum_bond,positive
+213,"UI frozen on high-res displays.",display,negative
+214,"Seamless integration with neural implants.",neural,positive
+215,"No homomorphic encryption for queries.",homo_enc,negative
+216,"Holistic multiverse health scenarios.",multiverse,positive
+217,"Frequent schema migrations disrupt.",migrations,negative
+218,"Innovative wormhole travel health prep.",wormhole,positive
+219,"Cluttered quantum UI elements.",quantum_ui,negative
+220,"Detailed black hole survival guides.",black_hole,positive
+221,"No warp drive nausea remedies.",warp,negative
+222,"Empowering time travel paradox resolutions.",time_travel,positive
+223,"Legacy dial-up modem support absurd.",dialup,negative
+224,"Transformative in parallel universe therapy.",parallel,positive
+225,"Overloaded with fictional scenarios.",fiction,negative
+226,"Seamless for interdimensional consults.",interdim,positive
+227,"No cloaking device for anonymity.",cloaking,negative
+228,"Holistic big bang recovery plans.",big_bang,positive
+229,"UI glitches in zero-gravity mode.",zero_g,negative
+230,"Rapid deployment of lightsaber wound care.",lightsaber,positive
+231,"Server crash during force awakenings.",force,negative
+232,"Inclusive for Jedi and Sith health.",jedi,positive
+233,"No midichlorian count analyzer.",midi,negative
+234,"Breakthrough in holocron data storage.",holocron,positive
+235,"Clunky podracer ergonomics advice.",podracer,negative
+236,"Detailed Ewok allergy management.",ewok,positive
+237,"Empathetic Wookiee fur care tips.",wookiee,positive
+238,"No bantha fodder nutrition labels.",bantha,negative
+239,"Seamless for Hutt cartel insurance.",hutt,positive
+240,"Overly dramatic response narratives.",drama,negative
+241,"Innovative Sarlacc pit escape plans.",sarlacc,positive
+242,"Legacy floppy disk backups.",floppy,negative
+243,"Holistic dark side temptation counseling.",dark_side,positive
+244,"Frequent imperial march interruptions.",imperial,negative
+245,"Tailored Rebel Alliance stress relief.",rebel,positive
+246,"No shield generator for data leaks.",shield,negative
+247,"Transformative in Force ghost consultations.",force_ghost,positive
+248,"UI dark mode too literal.",dark_mode,negative
+249,"Detailed carbonite freezing protocols.",carbonite,positive
+250,"Server freeze during hyperspace jumps.",hyperspace,negative
+251,"Empowering smuggler route health checks.",smuggler,positive
+252,"No bounty hunter tracking blockers.",bounty,negative
+253,"Seamless for droid maintenance queries.",droid,positive
+254,"Overhyped Millennium Falcon mods.",falcon,negative
+255,"Holistic cantina band therapy.",cantina,positive
+256,"Cluttered Jabba's palace navigation.",jabba,negative
+257,"Rapid Tatooine sand removal tips.",tatooine,positive
+258,"No moisture farm efficiency hacks.",moisture,negative
+259,"Innovative podracing injury prevention.",podrace,positive
+260,"Legacy AT-AT walker ergonomics.",atat,negative
+261,"Detailed Endor moon allergy alerts.",endor,positive
+262,"Empathetic Ewok village hygiene.",ewok_vill,positive
+263,"No speeder bike crash helmets.",speeder,negative
+264,"Breakthrough in lightsaber dueling form.",duel,positive
+265,"Server lag during Death Star runs.",deathstar,negative
+266,"Inclusive for both light and dark side.",balance,positive
+267,"No kyber crystal resonance tuner.",kyber,negative
+268,"Transformative in Jedi mind trick training.",mind_trick,positive
+269,"Overly philosophical response depths.",philo,negative
+270,"Seamless for Sith lightning safety.",sith,positive
+271,"No apprentice turnover rate stats.",apprentice,negative
+272,"Holistic balance in the Force advice.",force_bal,positive
+273,"UI glitch in holodeck simulations.",holodeck,negative
+274,"Detailed Vulcan nerve pinch recovery.",vulcan,positive
+275,"Empathetic Klingon honor wound care.",klingon,positive
+276,"No warp core breach protocols.",warp_core,negative
+277,"Rapid Borg assimilation resistance.",borg,positive
+278,"Legacy tricorder calibration issues.",tricorder,negative
+279,"Innovative Q continuum query handling.",q_cont,positive
+280,"Clunky transporter beam nausea remedies.",transporter,negative
+281,"Tailored Ferengi commerce health scams.",ferengi,positive
+282,"Server crash during red alert.",red_alert,negative
+283,"Inclusive for all Starfleet divisions.",starfleet,positive
+284,"No dilithium crystal purity tests.",dilithium,negative
+285,"Breakthrough in holosuite program debugging.",holosuite,positive
+286,"Overloaded with prime directive violations.",directive,negative
+287,"Holistic away team survival kits.",away_team,positive
+288,"Frequent photon torpedo misfires.",torpedo,negative
+289,"Seamless for Romulan cloaking device health.",romulan,positive
+290,"No Cardassian spine neck brace.",cardassian,negative
+291,"Detailed Bajoran orb visions interpretation.",bajoran,positive
+292,"Empowering Dominion war PTSD support.",dominion,positive
+293,"UI frozen in temporal anomaly.",temporal,negative
+294,"Rapid Defiant ship engineering fixes.",defiant,positive
+295,"Legacy DS9 station docking bays.",ds9,negative
+296,"Innovative wormhole travel sickness pills.",wormhole_travel,positive
+297,"Cluttered Voyager delta flyer controls.",voyager,negative
+298,"Holistic Q-less existence counseling.",qless,positive
+299,"No nanoprobe assimilation blockers.",nanoprobe,negative
+300,"Transformative in Unimatrix Zero escapes.",unimatrix,positive
+301,"Overly verbose Picard speeches in responses.",picard,negative
+302,"Seamless for Enterprise NCC-1701 refits.",enterprise,positive
+303,"No saucer separation advice.",saucer,negative
+304,"Detailed Spock eyebrow raise tutorials.",spock,positive
+305,"Empathetic Kirk chair swivel therapy.",kirk,positive
+306,"Server lag in Kobayashi Maru sims.",kobayashi,negative
+307,"Inclusive for all quadrants.",quadrants,positive
+308,"No genesis device side effect warnings.",genesis,negative
+309,"Breakthrough in Khan rage management.",khan,positive
+310,"Legacy whale probe communication.",whale,negative
+311,"Rapid Riker beard growth consults.",riker,positive
+312,"No Troi empathic overload shields.",troi,negative
+313,"Holistic Data emotion chip upgrades.",data,positive
+314,"Clunky Geordi visor cleaning tips.",geordi,negative
+315,"Tailored Worf bat'leth grip therapy.",worf,positive
+316,"Overloaded with Shakespeare quotes.",shakes,negative
+317,"Innovative Beverly Crusher hypospray refills.",crusher,positive
+318,"No Guinan wisdom distillation.",guinan,negative
+319,"Seamless for Q-tip dance routines.",qtip,positive
+320,"Detailed Lwaxana Troi social faux pas.",lwaxana,negative
+321,"Empowering O'Brien transporter phobia.",obrien,positive
+322,"UI glitch in Ro Laren earring.",ro,negative
+323,"Holistic Alexander Rozhenko parenting.",alex,positive
+324,"Frequent Alexander the Great historical errors.",alex_great,negative
+325,"Rapid Bashir spy thriller advice.",bashir,positive
+326,"No Garak tailor stitch infections.",garak,negative
+327,"Transformative in Dax symbiont joins.",dax,positive
+328,"Legacy Quark latinum allergies.",quark,negative
+329,"Inclusive for all Ferengi Rules of Acquisition.",rules,positive
+330,"No Grand Nagus succession planning.",nagus,negative
+331,"Detailed Ziyal art therapy.",ziyal,positive
+332,"Empathetic Damar resistance leadership.",damar,positive
+333,"Server crash during Battle of Bajor.",bajor_battle,negative
+334,"Breakthrough in Sisko Emissary duties.",emissary,positive
+335,"Overly prophetic wormhole prophecies.",prophecy,negative
+336,"Seamless for Kira Nerys faith crises.",kira,positive
+337,"No Odo shapeshifting strain consults.",odo,negative
+338,"Holistic Jake Sisko writing blocks.",jake,positive
+339,"Clunky Nog Starfleet academy prep.",nog,negative
+340,"Rapid Ezri Dax identity fusion.",ezri,positive
+341,"Legacy Seven of Nine alcove malfunctions.",seven,negative
+342,"Innovative Icheb mentor programs.",icheb,positive
+343,"No Naomi Wildman babysitting tips.",naomi,negative
+344,"Detailed Neelix morale officer duties.",neelix,positive
+345,"Empowering Tuvok logic puzzles.",tuvok,positive
+346,"UI frozen in Kes telepathic overload.",kes,negative
+347,"Tailored Tom Paris holonovel addictions.",tom,positive
+348,"Overloaded with B'Elanna torque wrench therapy.",b_elanna,negative
+349,"Holistic Harry Kim promotion delays.",harry,positive
+350,"No Janeway coffee replicator hacks.",janeway,negative
+351,"Transformative in Doctor EMH personality matrix.",emh,positive
+352,"Frequent Q continuum interventions.",q_inter,negative
+353,"Seamless for Voyager Maquis integration.",maquis,positive
+354,"No Seska traitor detection.",seska,negative
+355,"Detailed Culluh Kazon alliances.",culluh,positive
+356,"Empathetic Lon Suder Betazoid guilt.",sud,negative
+357,"Rapid Jonas sabotage recovery.",jonas,positive
+358,"Legacy Stadi helm officer training.",stadi,negative
+359,"Innovative holographic shark jumping.",shark,positive
+360,"Cluttered Delta Quadrant star charts.",delta,negative
+361,"Holistic Unimatrix Zero rebellion.",unimatrix_zero,positive
+362,"No Hirogen hunt fatigue.",hirogen,negative
+363,"Breakthrough in Species 8472 immunity.",8472,positive
+364,"Overly dramatic Vidiians organ harvesting.",vidiians,negative
+365,"Tailored Krenim temporal weapon ethics.",krenim,positive
+366,"Server lag in Q civil war.",q_civil,negative
+367,"Inclusive for all Alpha Quadrant refugees.",alpha,positive
+368,"No Malon waste export health risks.",malon,negative
+369,"Detailed Dinac demon possession.",dinac,positive
+370,"Empowering Kes Ocampan aging acceleration.",kes_age,positive
+371,"UI glitch in Talaxian comfort food.",talaxian,negative
+372,"Rapid Annorax timeline resets.",annorax,positive
+373,"No Braxton future incursion prevention.",braxton,negative
+374,"Holistic Future's End tech assimilation.",future_end,positive
+375,"Frequent Year of Hell trauma.",year_hell,negative
+376,"Seamless for Relativity time cops.",relativity,positive
+377,"Legacy Dark Frontier Borg queen.",dark_front,negative
+378,"Innovative Endgame Admiral Janeway paradoxes.",endgame,positive
+379,"Clunky Scorpion virus cures.",scorpion,negative
+380,"Detailed Threshold warp 10 evolution.",threshold,positive
+381,"Overloaded with Macrovirus outbreaks.",macro,negative
+382,"Empathetic Coda afterlife choices.",coda,positive
+383,"No Muse Vidiian inspiration theft.",muse,negative
+384,"Transformative in Shattered timeline merges.",shattered,positive
+385,"Server crash during Caretaker array.",caretaker,negative
+386,"Holistic Blink of an Eye cultural uplift.",blink,positive
+387,"No Equinox dark matter experiments.",equinox,negative
+388,"Rapid Workforce Hirogen training.",workforce,positive
+389,"Legacy Repression neural suppressors.",repression,negative
+390,"Inclusive for all Q junior pranks.",q_junior,positive
+391,"No 11:59 survival simulations.",1159,negative
+392,"Detailed Course: Oblivion ship copies.",oblivion,positive
+393,"Empowering Timeless quantum duplicates.",timeless,positive
+394,"UI frozen in Latent Image ethics.",latent,negative
+395,"Breakthrough in Think Tank solutions.",think_tank,positive
+396,"Overly complex Dragon's Teeth alliances.",dragon,negative
+397,"Seamless for Counterpoint royal flattery.",counterpoint,positive
+398,"No Warhead AI negotiations.",warhead,negative
+399,"Holistic Pathfinder wormhole hunts.",pathfinder,positive
+400,"Frequent Inside Man holographic tricks.",inside_man,negative
