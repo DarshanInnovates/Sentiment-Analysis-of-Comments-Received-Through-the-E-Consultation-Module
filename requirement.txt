@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+vaderSentiment
+wordcloud
+matplotlib
+API
